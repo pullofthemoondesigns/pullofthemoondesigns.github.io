@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pull of the Moon Designs",
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -186,7 +186,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Weaving Without Intention: The Saori Way",
-          "caption": "<p>Often thought of as the improvisational jazz form of weaving, Saori weaving aims to free one's inner creativity through the expression of self and to instantiate the aesthetic of wabi sabi &nbsp;-- &nbsp;the rustic, the personal, the imperfect. Saori comes from two Japanese words: sa meaning self and ori meaning to weave. As such, I have one of five Saori studios on the West Coast approved by Saorinomori of Osaka, Japan.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">People often ask me if I saw myself as a fiber artist ten years ago.  I say no; however, I had  since long ago an interest in weaving and textiles when I wove field flowers and rushes into simple wooden frames or dyed yarns with dandelions and greens or crocheted afghans and embroidered blouses and purses for friends in the 1970s.  But my interest certainly did not encompass the serious study and making of cloth that I began eight years ago under the direction of Mihoko Wakabayashi at Saori Worcester in 2007.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Saori introduced me to an aesthetic that guides my vision, a set of principles that focus my efforts and a skill that enables me to create. The art of Saori cultivates a lack of intention: in other words, one weaves without pre-planned drafts as one would in more traditional weaving. In this way the weaver is free to embrace serendipity &nbsp;-- &nbsp;those moments of inspiration &nbsp;-- &nbsp;by being in the moment.  Each item than cannot be replicated.  It is what it is, embracing its one of a kind nature.  Irregular selvages constitute an opportunity to move past the boundary of cloth; the different textures and yarn add dimension; color creates interest; design evolves. Such is the basis for Saori weaving.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">As a Saori weaver, I have shown my work in the the annual members exhibits at the Riverside Art Museum (2016,2014,2013 ) as well as the Riverside Community Arts Center (2015). &nbsp;My work was also included in the La Quinta Museum's Tell Me a Story Exhibition (2017). &nbsp;Additionally, over twenty of my works constituted a collaborative show with photographer Heather Sprague at the 29 Palms Art Gallery (2016). &nbsp;Currently, I am a juried member of the Desert Art Center in Palm Springs and Borrego Springs Art Institute &nbsp;as well as an artist in La Quinta's Art on Main Street, Riverside Art Museum's Art Fair, and &nbsp;a featured artist at the museum's Blue Door Gift Store. &nbsp;</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A former teacher of English and World History, I have found weaving and fiber arts to be my vehicle for self-expression. &nbsp;Growing up in a town in New England where the textile industry dominated (wool combing in particular), I have always possessed an interest in textiles, collecting pieces in my travels and in later years learning to weave and felt. &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
+          "caption": "<p>Often thought of as the improvisational jazz form of weaving, Saori weaving aims to free one's inner creativity through the expression of self and to instantiate the aesthetic of wabi sabi &nbsp;-- &nbsp;the rustic, the personal, the imperfect. Saori comes from two Japanese words: sa meaning self and ori meaning to weave. As such, I have one of five Saori studios on the West Coast approved by Saorinomori of Osaka, Japan.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">People often ask me if I saw myself as a fiber artist ten years ago.  I say no; however, I had  since long ago an interest in weaving and textiles when I wove field flowers and rushes into simple wooden frames or dyed yarns with dandelions and greens or crocheted afghans and embroidered blouses and purses for friends in the 1970s.  But my interest certainly did not encompass the serious study and making of cloth that I began ten years ago under the direction of Mihoko Wakabayashi at Saori Worcester in 2007.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Saori introduced me to an aesthetic that guides my vision, a set of principles that focus my efforts and a skill that enables me to create. The art of Saori cultivates a lack of intention: in other words, one weaves without pre-planned drafts as one would in more traditional weaving. In this way the weaver is free to embrace serendipity &nbsp;-- &nbsp;those moments of inspiration &nbsp;-- &nbsp;by being in the moment.  Each item than cannot be replicated.  It is what it is, embracing its one of a kind nature.  Irregular selvages constitute an opportunity to move past the boundary of cloth; the different textures and yarn add dimension; color creates interest; design evolves. Such is the basis for Saori weaving.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">As a Saori weaver, I have shown my work in the the annual members exhibits at the Riverside Art Museum (2016,2014,2013 ) as well as the Riverside Community Arts Center (2015). &nbsp;My work was also included in the La Quinta Museum's Tell Me a Story Exhibition (2017). &nbsp;Additionally, over twenty of my works constituted a collaborative show with photographer Heather Sprague at the 29 Palms Art Gallery (2016). &nbsp;Currently, I am a juried member of the Desert Art Center in Palm Springs and Borrego Springs Art Institute &nbsp;as well as an artist in La Quinta's Art on Main Street, Riverside Art Museum's Art Fair, and &nbsp;a featured artist at the museum's Blue Door Gift Store. &nbsp;</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A former teacher of English and World History, I have found weaving and fiber arts to be my vehicle for self-expression. &nbsp;Growing up in a town in New England where the textile industry dominated (wool combing in particular), I have always possessed an interest in textiles, collecting pieces in my travels and in later years learning to weave and felt. &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
         },
         {
           "alias": "purity/components",
@@ -422,8 +422,8 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1324.jpg",
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "Title",
+                "showTitle": true,
+                "title": "Pink Confection Scarf",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -444,8 +444,8 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x2000.jpg",
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "Title",
+                "showTitle": true,
+                "title": "Blue Agave Scarf",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -488,8 +488,8 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-2000x2666.jpg",
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "Title&nbsp;",
+                "showTitle": true,
+                "title": "Daisy Chain Scarf&nbsp;",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -499,8 +499,8 @@
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x2666.jpg",
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "Title",
+                "showTitle": true,
+                "title": "Healing Water Wall Hanging",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -928,7 +928,7 @@
           "title2": "Zen Day<br>$125",
           "caption2": "You are free to explore Saori weaving without guided instruction for a day in the garden or inside the studio. You are provided a prewarped loom and access to the yarns in the studio for 6 hours. &nbsp;<i>This class is suitable for people who have woven previously or who come  from afar.</i>",
           "title3": "Membership Weaving<br>",
-          "caption3": "Classes for continuing students based on degree of experience. Suitable for students who have completed Saori courses or possess some weaving experience. Weaving My Memories qualifies as does the Saori Zen Day.  The goal is to develop a Saori weaving community. Times and cost to be determined.",
+          "caption3": "Classes for continuing students are based on degree of experience. Suitable for students who have completed Saori courses or possess some weaving experience. Weaving My Memories qualifies as does the Saori Zen Day.  The goal is to develop a Saori weaving community. Times and cost to be determined.",
           "title4": "Unlimited Websites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
         },
