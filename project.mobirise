@@ -1,0 +1,1900 @@
+{
+  "settings": {
+    "name": "Pull of the Moon Designs-clone",
+    "currentPage": "Gallery.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 56,
+    "versionPublish": "4.6.5",
+    "favicon": "@PROJECT_PATH@/assets/images/img-1937-copy-128x109.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "About.html": {
+      "settings": {
+        "title": "Artist Biographical Notes for Ellen Finan",
+        "order": 2,
+        "meta_descr": "Artist Ellen Finan"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "font-size": "25px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box4-8",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#b8dfed",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1866.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Artist Biographical Notes",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>for Ellen Finan</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-3",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#dddddd",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"Home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content5-7",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x2504.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#b8dfed",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Weaving Without Intention: The Saori Way",
+          "caption": "<p>Often thought of as the improvisational jazz form of weaving, Saori weaving aims to free one's inner creativity through the expression of self and to instantiate the aesthetic of wabi sabi &nbsp;-- &nbsp;the rustic, the personal, the imperfect. Saori comes from two Japanese words: sa meaning self and ori meaning to weave. As such, I have one of five Saori studios on the West Coast approved by Saorinomori of Osaka, Japan.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">People often ask me if I saw myself as a fiber artist ten years ago.  I say no; however, I had  since long ago an interest in weaving and textiles when I wove field flowers and rushes into simple wooden frames or dyed yarns with dandelions and greens or crocheted afghans and embroidered blouses and purses for friends in the 1970s.  But my interest certainly did not encompass the serious study and making of cloth that I began eight years ago under the direction of Mihoko Wakabayashi at Saori Worcester in 2007.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Saori introduced me to an aesthetic that guides my vision, a set of principles that focus my efforts and a skill that enables me to create. The art of Saori cultivates a lack of intention: in other words, one weaves without pre-planned drafts as one would in more traditional weaving. In this way the weaver is free to embrace serendipity &nbsp;-- &nbsp;those moments of inspiration &nbsp;-- &nbsp;by being in the moment.  Each item than cannot be replicated.  It is what it is, embracing its one of a kind nature.  Irregular selvages constitute an opportunity to move past the boundary of cloth; the different textures and yarn add dimension; color creates interest; design evolves. Such is the basis for Saori weaving.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">As a Saori weaver, I have shown my work in the the annual members exhibits at the Riverside Art Museum (2016,2014,2013 ) as well as the Riverside Community Arts Center (2015). &nbsp;My work was also included in the La Quinta Museum's Tell Me a Story Exhibition (2017). &nbsp;Additionally, over twenty of my works constituted a collaborative show with photographer Heather Sprague at the 29 Palms Art Gallery (2016). &nbsp;Currently, I am a juried member of the Desert Art Center in Palm Springs and Borrego Springs Art Institute &nbsp;as well as an artist in La Quinta's Art on Main Street, Riverside Art Museum's Art Fair, and &nbsp;a featured artist at the museum's Blue Door Gift Store. &nbsp;</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A former teacher of English and World History, I have found weaving and fiber arts to be my vehicle for self-expression. &nbsp;Growing up in a town in New England where the textile industry dominated (wool combing in particular), I have always possessed an interest in textiles, collecting pieces in my travels and in later years learning to weave and felt. &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "social-buttons2-w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/PullOfTheMoonDesigns/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/pullofthemoon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ecfinan626/my-work-pull-of-the-moon-designs\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "contacts1-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nDesert Hot Springs, CA",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pullofthemoondesigns@gmail.com<br>\nPhone: +1 (760) 676 9377<br><br>",
+          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li>&nbsp;<a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#fbfbfb"
+            }
+          },
+          "_anchor": "social-buttons1-18",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_4.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!"
+        }
+      ]
+    },
+    "Gallery.html": {
+      "settings": {
+        "title": "Pull of the Moon Designs Gallery",
+        "order": 3,
+        "meta_descr": "Art Pieces by Ellen Finan"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-4",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#dddddd",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"Home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "right",
+              "color": "#fbfbfb",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "I": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "color": "#fbfbfb"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#b8dfed",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Desert Variations<br>Wall Hanging",
+                "showText": false,
+                "text": "Wall Hanging",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Mansplaining Scarf",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1324.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Title",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2000.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Winter's Day Scarf",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x2000.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Title",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nunofelted-autumn-scarflette-2000x2000.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Nunofelted Autumn Scarflette",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/spring-frolic2-2000x2000.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Spring Frolic&nbsp;",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/tilting-in-the-wind-2000x2000.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<i>Tilting in the Wind</i>",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2666.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Title&nbsp;",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x2666.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Title",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> "
+              }
+            ]
+          },
+          "_anchor": "slider-12",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#d9534f"
+            },
+            ".lead P": {
+              "color": "#d9534f"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-m",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Interested in an Art Piece?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>All art pieces are available to interested collectors.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Check Availability</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "social-buttons2-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/PullOfTheMoonDesigns/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/pullofthemoon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ecfinan626/my-work-pull-of-the-moon-designs\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "contacts1-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nDesert Hot Springs, CA",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pullofthemoondesigns@gmail.com<br>\nPhone: +1 (760) 676 9377<br><br>",
+          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li>&nbsp;<a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#fbfbfb"
+            }
+          },
+          "_anchor": "social-buttons1-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_4.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!"
+        }
+      ]
+    },
+    "Classes.html": {
+      "settings": {
+        "title": "Saori Weaving Classes by Ellen Finan",
+        "order": 4,
+        "meta_descr": "Wabi Sabi Organics by Ellen Finan\nSaori Weaving Classes"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-5",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#dddddd",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"Home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#fbfbfb",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "60px"
+            },
+            "P": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "header2-n",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/weaving-process-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Wabi Sabi Organics...<div>Saori Weaving</div><div>by Ellen Finan</div>",
+          "text": "As it is - Asymmetrical - Simple - Unfolding - Authentic - Heartfelt<br>The stillness of perception in a world of motion",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Ask a Question</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#d9534f"
+            },
+            ".lead P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "msg-box4-r",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Weaving Without Intention",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Saori is often considered the zen meditation of the weaving world. While weaving can be considered meditative by many, Saori weaving focuses on the moment and going with that intuition or inner self. It is expressive, immediate, spontaneous and energetic. Ori translates to weaving in Japanese while sa means self. Thus, Saori means to weave oneself, tapping into one’s inner spirit.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">I have been Saori weaving for eight years as part of the SAORI Worcester community. I invite you to be part of a new community in Desert Hot Springs.</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "24px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x881.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "How do I get started?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Weaving classes are held in my studio in Desert Hot Springs. Four different styles of Saori looms are available to use; all looms were designed by Kenzo Jo of Osaka, Japan.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Enroll Now&nbsp;</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "H4": {
+              "color": "#d9534f",
+              "font-size": "24px"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "content4-q",
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Weaving My Memories<br>$75&nbsp;",
+          "caption1": "This three hour session offers a Saori loom with a pre-warped black warp for you to weave your memories. A large assortment of treasures (yarns, sari silk, wool roving) as well as cone yarn are available for you.  Basic instruction on weaving. You will produce a wall hanging of approximately 2-3 feet depending on the complexity of your weaving. &nbsp;All materials are included. &nbsp;<i>This class is suitable for people who are experimenting with Saori for the first time.</i>",
+          "title2": "Zen Day<br>$125",
+          "caption2": "You are free to explore Saori weaving without guided instruction for a day in the garden or inside the studio. You are provided a prewarped loom and access to the yarns in the studio for 6 hours. &nbsp;<i>This class is suitable for people who have woven previously or who come  from afar.</i>",
+          "title3": "Membership Weaving<br>",
+          "caption3": "Classes for continuing students based on degree of experience. Suitable for students who have completed Saori courses or possess some weaving experience. Weaving My Memories qualifies as does the Saori Zen Day.  The goal is to develop a Saori weaving community. Times and cost to be determined.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content5-y",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "We do not teach, we develop individual creativity.  -- Misao Jo, Saori Founder<br>",
+          "caption": ""
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "social-buttons2-z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/PullOfTheMoonDesigns/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/pullofthemoon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ecfinan626/my-work-pull-of-the-moon-designs\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "contacts1-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nDesert Hot Springs, CA",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pullofthemoondesigns@gmail.com<br>\nPhone: +1 (760) 676 9377<br><br>",
+          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li>&nbsp;<a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#fbfbfb"
+            }
+          },
+          "_anchor": "social-buttons1-19",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_4.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!"
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "Contact Pull of the Moon Designs",
+        "order": 5
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-6",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#dddddd",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"Home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#d9534f",
+              "font-size": "48px"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "content5-11",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Take a Class or Collect an Art Piece",
+          "caption": "<p>Just fill out the form below and I will be in contact with you shortly. &nbsp;Please feel free to ask any questions or share any comments you may have. &nbsp;I look forward to hearing from you!</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-e",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#b8dfed",
+            "overlayOpacity": "0"
+          },
+          "title": "Contact Ellen Finan",
+          "form": {
+            "action": "ecfinan626@gmail.com",
+            "alerts": {
+              "success": "You're message was sent!  I will be in touch shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Please Provide Course Title/Name of Art Piece and Your Questions/Comments"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "social-buttons2-10",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/PullOfTheMoonDesigns/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/pullofthemoon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ecfinan626/my-work-pull-of-the-moon-designs\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "contacts1-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nDesert Hot Springs, CA",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pullofthemoondesigns@gmail.com<br>\nPhone: +1 (760) 676 9377<br><br>",
+          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li>&nbsp;<a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#fbfbfb"
+            }
+          },
+          "_anchor": "social-buttons1-1a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_4.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!"
+        }
+      ]
+    },
+    "Payment.html": {
+      "settings": {
+        "title": "Complete Your Transaction "
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-1d",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "You're almost done!",
+          "text": "Click on the payment button below to complete your transaction. &nbsp;Thank you!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://paypal.me/pullofthemoondesigns\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Make a Payment</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/PullOfTheMoonDesigns/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/pullofthemoon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ecfinan626/my-work-pull-of-the-moon-designs\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "social-buttons2-1g"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "contacts1-1b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nDesert Hot Springs, CA",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pullofthemoondesigns@gmail.com<br>\nPhone: +1 (760) 676 9377<br><br>",
+          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li>&nbsp;<a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-1c",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#dddddd",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"Home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Pull of the Moon Designs",
+        "meta_descr": "Saori Weaving Studio",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#fbfbfb",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "80px"
+            },
+            "P": {
+              "color": "#fbfbfb",
+              "font-size": "24px"
+            },
+            "SPAN": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "60px"
+            }
+          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-k",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-2000x1125.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"line-height: 1.1;\">Welcome to</span><br><span style=\"line-height: 1.1;\">Pull of the Moon Designs</span><br>",
+          "text": "Saori weaving promotes weaving from the heart: individuals feel free to express themselves without fear.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; Gallery &nbsp;&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Classes.html#msg-box3-s\" data-toolbar=\"-mbrBtnMove\">Take a Class<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Etsy Shop</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#d9534f"
+            },
+            ".lead P": {
+              "color": "#d9534f",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box4-0",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x921.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "What is Saori?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Ori means to weave in Japanese. and sa means self. &nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">This style of weaving helps us explore our creative selves. &nbsp; Join us in this mode of artful expression.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-2",
+          "_params": {
+            "token": "386624395.727bfe1.bf15df9ca75a4ee28e9ed10b38849ad3",
+            "showTitle": false,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "5",
+            "rows": "2",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": "4",
+            "fullWidth": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "display2": "display-2",
+          "display4": "display-4",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-info\" href=\"#\" data-max-id=\"1748366596299850058_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#fbfbfb"
+            },
+            ".lead P": {
+              "color": "#fbfbfb"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Interested in an Art Piece?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>All art pieces are available to interested collectors.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Check Availability</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1e"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "social-buttons2-d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/PullOfTheMoonDesigns/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/pullofthemoon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/ecfinan/what-i-do-pull-of-the-moon-designs/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>   "
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nDesert Hot Springs, CA",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pullofthemoondesigns@gmail.com<br>\nPhone: +1 (760) 676 9377<br><br>",
+          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li>&nbsp;<a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1j",
+          "_styles": {
+            "STRONG": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d9534f"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#fbfbfb"
+            }
+          },
+          "_anchor": "social-buttons1-16",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__section": {
+              "background": "#dddddd"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-1",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#dddddd",
+            "hamburgerColor": "#000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"Home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+        }
+      ]
+    }
+  }
+}
