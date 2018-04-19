@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Pull of the Moon Designs",
-    "currentPage": "Gallery.html",
+    "name": "Pull of the Moon Designs-clone",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -228,6 +228,9 @@
             },
             "P": {
               "color": "#d9534f"
+            },
+            "UL": {
+              "color": "#d9534f"
             }
           },
           "_anchor": "contacts1-g",
@@ -264,7 +267,7 @@
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
         },
         {
           "alias": "purity/components",
@@ -641,6 +644,9 @@
             },
             "P": {
               "color": "#d9534f"
+            },
+            "UL": {
+              "color": "#d9534f"
             }
           },
           "_anchor": "contacts1-g",
@@ -674,7 +680,7 @@
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
         },
         {
           "alias": "purity/components",
@@ -908,6 +914,9 @@
             },
             "P": {
               "color": "#d9534f"
+            },
+            "UL": {
+              "color": "#d9534f"
             }
           },
           "_anchor": "contacts1-g",
@@ -941,7 +950,7 @@
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
         },
         {
           "alias": "purity/components",
@@ -1063,6 +1072,9 @@
             },
             "P": {
               "color": "#d9534f"
+            },
+            "UL": {
+              "color": "#d9534f"
             }
           },
           "_anchor": "contacts1-1b",
@@ -1096,7 +1108,7 @@
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>"
+          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
         },
         {
           "alias": "purity/components",
@@ -1419,7 +1431,7 @@
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>",
+          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1431,6 +1443,9 @@
               "color": "#d9534f"
             },
             "P": {
+              "color": "#d9534f"
+            },
+            "UL": {
               "color": "#d9534f"
             }
           }
@@ -1941,6 +1956,9 @@
             },
             "P": {
               "color": "#d9534f"
+            },
+            "UL": {
+              "color": "#d9534f"
             }
           },
           "_params": {
@@ -1973,7 +1991,7 @@
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Saori Weaving Studios</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li></ul>",
+          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>",
           "_anchor": "contacts1-1r"
         },
         {
