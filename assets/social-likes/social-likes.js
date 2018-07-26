@@ -15,10 +15,6 @@
  2014 Artem Sapegin (sapegin.me)
  @license MIT
 */
-/*
- 2014 Artem Sapegin (sapegin.me)
- @license MIT
-*/
 (function(d){"function"===typeof define&&define.amd?define(["jquery"],d):d(jQuery)})(function(d,p){function q(a,b){this.container=a;this.options=b;this.init()}function r(a,b){this.widget=a;this.options=d.extend({},b);this.detectService();this.service&&this.init()}function v(a){function b(a,b){return b.toUpper()}var c={};a=a.data();for(var d in a){var f=a[d];"yes"===f?f=!0:"no"===f&&(f=!1);c[d.replace(/-(\w)/g,b)]=f}return c}function k(a,b){return t(a,b,encodeURIComponent)}function t(a,b,c){return a.replace(/\{([^\}]+)\}/g,
 function(a,d){return d in b?c?c(b[d]):b[d]:a})}function m(a,b){var c="social-likes__"+a;return c+" "+c+"_"+b}function w(a,b){function c(g){"keydown"===g.type&&27!==g.which||d(g.target).closest(a).length||(a.removeClass("social-likes_opened"),e.off(f,c),d.isFunction(b)&&b())}var e=d(document),f="click touchstart keydown";e.on(f,c)}function x(a){if(document.documentElement.getBoundingClientRect){var b=parseInt(a.css("left"),10),c=parseInt(a.css("top"),10),d=a[0].getBoundingClientRect();10>d.left?a.css("left",
 10-d.left+b):d.right>window.innerWidth-10&&a.css("left",window.innerWidth-d.right-10+b);10>d.top?a.css("top",10-d.top+c):d.bottom>window.innerHeight-10&&a.css("top",window.innerHeight-d.bottom-10+c)}a.addClass("social-likes_opened")}var l="https:"===location.protocol?"https:":"http:",u="https:"===l,h={facebook:{counterUrl:"https://graph.facebook.com/fql?q=SELECT+total_count+FROM+link_stat+WHERE+url%3D%22{url}%22&callback=?",convertNumber:function(a){return a.data[0].total_count},popupUrl:"https://www.facebook.com/sharer/sharer.php?u={url}",

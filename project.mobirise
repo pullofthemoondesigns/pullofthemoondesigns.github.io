@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Pull of the Moon Designs-clone",
+    "name": "Pull of the Moon Designs",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -9,15 +9,16 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
-    "versionPublish": "4.6.5",
+    "uniqCompNum": 67,
+    "versionPublish": "4.8.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-1937-copy-128x109.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "About.html": {
@@ -1302,7 +1303,7 @@
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-2",
           "_params": {
-            "token": "386624395.727bfe1.bf15df9ca75a4ee28e9ed10b38849ad3",
+            "token": "386624395.727bfe1.0eb36d0e5c564039be2a04496b07377f",
             "showTitle": false,
             "layoutGridRadio": true,
             "imagesPerRowGrid": "5",
