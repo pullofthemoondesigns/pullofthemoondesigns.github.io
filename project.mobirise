@@ -9,8 +9,8 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 67,
-    "versionPublish": "4.8.1",
+    "uniqCompNum": 70,
+    "versionPublish": "5.2.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1937-copy-128x109.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -18,7 +18,9 @@
     "siteUrl": "undefined",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "About.html": {
@@ -149,7 +151,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
         },
         {
           "alias": "purity/components",
@@ -367,7 +369,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -779,7 +781,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
         },
         {
           "alias": "purity/components",
@@ -1166,7 +1168,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
         }
       ]
     },
@@ -1227,7 +1229,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\">Welcome to</span><br><span style=\"line-height: 1.1;\">Pull of the Moon Designs</span><br>",
           "text": "Saori weaving promotes weaving from the heart: individuals feel free to express themselves without fear.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; Gallery &nbsp;&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Classes.html#msg-box3-s\" data-toolbar=\"-mbrBtnMove\">Take a Class<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Etsy Shop</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; Gallery &nbsp;&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Classes.html#msg-box3-s\" data-toolbar=\"-mbrBtnMove\">Take a Class<br></a> "
         },
         {
           "_inherit": "msg-box5",
@@ -1296,37 +1298,37 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
         },
         {
+          "_params": {
+            "account": "pullofthemoon",
+            "showTitle": false,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "bgColorRadio": true,
+            "bgColor": "#d9534f",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-2",
-          "_params": {
-            "token": "386624395.727bfe1.0eb36d0e5c564039be2a04496b07377f",
-            "showTitle": false,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": "2",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "4",
-            "fullWidth": false,
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgColorRadio": true,
-            "bgColor": "#d9534f",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "display2": "display-2",
-          "display4": "display-4",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-info\" href=\"#\" data-max-id=\"1748366596299850058_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>"
+          "_anchor": "instagram-feed-block-1x"
         },
         {
           "_styles": {
@@ -1539,7 +1541,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
         }
       ]
     },
@@ -1604,7 +1606,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\" target=\"_blank\">Etsy Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> ",
           "_anchor": "menu-1k"
         },
         {
