@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pull of the Moon Designs",
-    "currentPage": "Workshops.html",
+    "currentPage": "Gallery.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "5.2.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1937-copy-128x109.png",
     "noImageResize": "",
@@ -735,6 +735,19 @@
           ],
           "_name": "gallery2",
           "_anchor": "gallery2-1z"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20"
         },
         {
           "alias": "purity/components",
