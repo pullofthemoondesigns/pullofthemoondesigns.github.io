@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pull of the Moon Designs",
-    "currentPage": "index.html",
+    "currentPage": "Workshops.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2059,7 +2059,7 @@
             }
           },
           "title": "Surface Design Classes",
-          "text": "<p>&nbsp;to be offered in Fall 2021</p><p>Stay Tuned on <a href=\"https://www.instagram.com/pullofthemoon/\" class=\"text-primary\" target=\"_blank\">Instagram</a>&nbsp;@&nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.25rem;\"><a href=\"https://www.instagram.com/pullofthemoon/\" class=\"text-primary\">Pull of the Moon</a></span></p>",
+          "text": "<p>&nbsp;to be offered in Fall 2021</p><p>Stay Tuned on <a href=\"https://www.instagram.com/pullofthemoon/\" class=\"text-primary\" target=\"_blank\">Instagram</a>&nbsp;@&nbsp;<span style=\"font-size: 1.25rem;\"><a href=\"https://www.instagram.com/pullofthemoon/\" class=\"text-primary\">Pull of the Moon</a></span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
