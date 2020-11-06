@@ -6,10 +6,12 @@
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#be1313"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 72,
     "versionPublish": "5.2.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1937-copy-128x109.png",
     "noImageResize": "",
@@ -151,7 +153,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"Workshops.html\">Workshops</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\">Etsy Shop</a></li> "
         },
         {
           "alias": "purity/components",
@@ -189,7 +191,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Weaving Without Intention: The Saori Way",
-          "caption": "<p>Often thought of as the improvisational jazz form of weaving, Saori weaving aims to free one's inner creativity through the expression of self and to instantiate the aesthetic of wabi sabi &nbsp;-- &nbsp;the rustic, the personal, the imperfect. Saori comes from two Japanese words: sa meaning self and ori meaning to weave. As such, I have one of five Saori studios on the West Coast approved by Saorinomori of Osaka, Japan.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">People often ask me if I saw myself as a fiber artist ten years ago.  I say no; however, I had  since long ago an interest in weaving and textiles when I wove field flowers and rushes into simple wooden frames or dyed yarns with dandelions and greens or crocheted afghans and embroidered blouses and purses for friends in the 1970s.  But my interest certainly did not encompass the serious study and making of cloth that I began ten years ago under the direction of Mihoko Wakabayashi at Saori Worcester in 2007.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Saori introduced me to an aesthetic that guides my vision, a set of principles that focus my efforts and a skill that enables me to create. The art of Saori cultivates a lack of intention: in other words, one weaves without pre-planned drafts as one would in more traditional weaving. In this way the weaver is free to embrace serendipity &nbsp;-- &nbsp;those moments of inspiration &nbsp;-- &nbsp;by being in the moment.  Each item than cannot be replicated.  It is what it is, embracing its one of a kind nature.  Irregular selvages constitute an opportunity to move past the boundary of cloth; the different textures and yarn add dimension; color creates interest; design evolves. Such is the basis for Saori weaving.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">As a Saori weaver, I have shown my work in the the annual members exhibits at the Riverside Art Museum (2016,2014,2013 ) as well as the Riverside Community Arts Center (2015). &nbsp;My work was also included in the La Quinta Museum's Tell Me a Story Exhibition (2017). &nbsp;Additionally, over twenty of my works constituted a collaborative show with photographer Heather Sprague at the 29 Palms Art Gallery (2016). &nbsp;Currently, I am a juried member of the Desert Art Center in Palm Springs and Borrego Springs Art Institute &nbsp;as well as an artist in La Quinta's Art on Main Street, Riverside Art Museum's Art Fair, and &nbsp;a featured artist at the museum's Blue Door Gift Store. &nbsp;</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A former teacher of English and World History, I have found weaving and fiber arts to be my vehicle for self-expression. &nbsp;Growing up in a town in New England where the textile industry dominated (wool combing in particular), I have always possessed an interest in textiles, collecting pieces in my travels and in later years learning to weave and felt. &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
+          "caption": "<p>Often thought of as the improvisational jazz form of weaving, Saori weaving aims to free one's inner creativity through the expression of self and to instantiate the aesthetic of wabi sabi &nbsp;-- &nbsp;the rustic, the personal, the imperfect. Saori comes from two Japanese words: sa meaning self and ori meaning to weave. As such, I have one of five Saori studios on the West Coast approved by Saorinomori of Osaka, Japan.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">People often ask me if I saw myself as a fiber artist fifteen years ago. I say no; however, I had since long ago an interest in weaving and textiles when I wove field flowers and rushes into simple wooden frames or dyed yarns with dandelions and greens or crocheted afghans and embroidered blouses and purses for friends in the 1970s. But my interest certainly did not encompass the serious study and making of cloth that I began twelve years ago under the direction of Mihoko Wakabayashi at Saori Worcester in 2007.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Saori introduced me to an aesthetic that guides my vision, a set of principles that focus my efforts and a skill that enables me to create. The art of Saori cultivates a lack of intention: in other words, one weaves without pre-planned drafts as one would in more traditional weaving. In this way the weaver is free to embrace serendipity &nbsp;-- &nbsp;those moments of inspiration &nbsp;-- &nbsp;by being in the moment.  Each item than cannot be replicated.  It is what it is, embracing its one of a kind nature.  Irregular selvages constitute an opportunity to move past the boundary of cloth; the different textures and yarn add dimension; color creates interest; design evolves. Such is the basis for Saori weaving.&nbsp; My recent work-- The Disintegration of the Fabric of Society-- has been juried into Crisis Mode exhibition at the Orange County Center for Contemporary Art  (November- December 2020)  and another piece-- Meandering in Place--  is showing in the La Quinta Museum's online exhibit called Uncertain Times (2020-2021).</span></p><p><span style=\"font-size: 1.25rem;\">In March of 2020 I participated in an International Textile workshop at Tasarabeypore in Kerala, India. We studied a variety of surface design techniques that I plan to share in the fall of 2021 in workshops.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">As a Saori weaver, I have shown my work in the the annual members exhibits at the Riverside Art Museum (2016,2014,2013 ) as well as the Riverside Community Arts Center (2015). &nbsp;My work was also included in the La Quinta Museum's Tell Me a Story Exhibition (2017). &nbsp;Additionally, over twenty of my works constituted a collaborative show with photographer Heather Sprague at the 29 Palms Art Gallery (2016). &nbsp;Currently, I am a juried member of the Desert Art Center in Palm Springs and Borrego Springs Art Institute &nbsp;as well as an artist in La Quinta's Art on Main Street, Riverside Art Museum's Art Fair, and &nbsp;a featured artist at the museum's Blue Door Gift Store. &nbsp;</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A former teacher of English and World History, I have found weaving and fiber arts to be my vehicle for self-expression. &nbsp;Growing up in a town in New England where the textile industry dominated (wool combing in particular), I have always possessed an interest in textiles, collecting pieces in my travels and in later years learning to weave and felt. &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
         },
         {
           "alias": "purity/components",
@@ -238,8 +240,8 @@
           },
           "_anchor": "contacts1-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -251,7 +253,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20200512-143040-712-265x265.jpeg",
               "width": 265,
               "active": true,
               "link": "",
@@ -269,8 +271,8 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text3": "<ul></ul>"
         },
         {
           "alias": "purity/components",
@@ -369,7 +371,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"Workshops.html\">Workshops</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\">Etsy Shop</a></li> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -593,7 +595,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#dddddd",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -606,6 +608,133 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>All art pieces are available to interested collectors.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Check Availability</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200910-140132-3-2000x2217.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200910-140132-3-2000x2217-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200916-160317-2000x1995.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200916-160317-2000x1995-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200918-93831-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200918-93831-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20201007-132108-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20201007-132108-2000x1500-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200928-140521-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200928-140521-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200603-73840-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200603-73840-2000x1500-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200617-110823-2000x2692.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200617-110823-2000x2692-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200617-111927-2000x1715.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200617-111927-2000x1715-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200617-120117-1955x3048.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200617-120117-1955x3048-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200507-150857-2000x976.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200507-150857-2000x976-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200520-115005-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200520-115005-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200520-114738-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200520-114738-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200520-134648-857-2000x2000.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200520-134648-857-2000x2000-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20201012-1252252-2000x2005.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20201012-1252252-2000x2005-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20201006-142158-961-2000x2000.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20201006-142158-961-2000x2000-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20201021-104759-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20201021-104759-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-1z"
         },
         {
           "alias": "purity/components",
@@ -654,8 +783,8 @@
           },
           "_anchor": "contacts1-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -667,7 +796,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20200512-143040-712-265x265.jpeg",
               "width": 265,
               "active": true,
               "link": "",
@@ -682,8 +811,8 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text3": "<ul></ul>"
         },
         {
           "alias": "purity/components",
@@ -781,7 +910,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"Workshops.html\">Workshops</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\">Etsy Shop</a></li> "
         },
         {
           "alias": "purity/components",
@@ -819,7 +948,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Take a Class or Collect an Art Piece",
+          "title": "Take a Workshop or Collect an Art Piece",
           "caption": "<p>Just fill out the form below and I will be in contact with you shortly. &nbsp;Please feel free to ask any questions or share any comments you may have. &nbsp;I look forward to hearing from you!</p>"
         },
         {
@@ -849,7 +978,7 @@
           },
           "title": "Contact Ellen Finan",
           "form": {
-            "action": "pullofthemoondesigns@gmail.com",
+            "action": "ecfinan626@gmail.com",
             "alerts": {
               "success": "You're message was sent!  I will be in touch shortly."
             },
@@ -924,8 +1053,8 @@
           },
           "_anchor": "contacts1-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -937,7 +1066,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20200512-143040-712-265x265.jpeg",
               "width": 265,
               "active": true,
               "link": "",
@@ -952,8 +1081,8 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text3": "<ul></ul>"
         },
         {
           "alias": "purity/components",
@@ -1082,8 +1211,8 @@
           },
           "_anchor": "contacts1-1b",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1095,7 +1224,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20200512-143040-712-265x265.jpeg",
               "width": 265,
               "active": true,
               "link": "",
@@ -1110,8 +1239,8 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>"
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text3": "<ul></ul>"
         },
         {
           "alias": "purity/components",
@@ -1168,7 +1297,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"Workshops.html\">Workshops</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\">Etsy Shop</a></li> "
         }
       ]
     },
@@ -1229,7 +1358,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\">Welcome to</span><br><span style=\"line-height: 1.1;\">Pull of the Moon Designs</span><br>",
           "text": "Saori weaving promotes weaving from the heart: individuals feel free to express themselves without fear.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; Gallery &nbsp;&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Classes.html#msg-box3-s\" data-toolbar=\"-mbrBtnMove\">Take a Class<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; Gallery &nbsp;&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Workshops.html\" data-toolbar=\"-mbrBtnMove\">Workshops<br></a> "
         },
         {
           "_inherit": "msg-box5",
@@ -1406,8 +1535,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1419,12 +1548,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20200512-143040-712-265x265.jpeg",
               "width": 265,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1433,8 +1563,8 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1541,15 +1671,15 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"Workshops.html\">Workshops</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\">Etsy Shop</a></li> "
         }
       ]
     },
-    "Classes.html": {
+    "Workshops.html": {
       "settings": {
-        "title": "Saori Weaving Classes by Ellen Finan",
+        "title": "Saori Weaving Workshops by Ellen Finan",
         "order": 4,
-        "meta_descr": "Wabi Sabi Organics by Ellen Finan\nSaori Weaving Classes"
+        "meta_descr": "Wabi Sabi Organics by Ellen Finan\nSaori Weaving Workshops"
       },
       "components": [
         {
@@ -1606,7 +1736,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pull of the Moon Designs</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Classes.html\">Classes</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"About.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Gallery.html\">Gallery</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"Workshops.html\">Workshops</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger text-primary\" data-app-selector=\".nav-link\" href=\"https://www.etsy.com/shop/pullofthemoondesigns?ref=l2-shopheader-name\">Etsy Shop</a></li> ",
           "_anchor": "menu-1k"
         },
         {
@@ -1803,6 +1933,9 @@
             },
             ".mbr-section-title": {
               "color": "#000000"
+            },
+            ".lead": {
+              "color": "#be1313"
             }
           },
           "alias": "purity/components",
@@ -1832,7 +1965,7 @@
           },
           "title": "How do I get started?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Weaving classes are held in my studio in Desert Hot Springs. Four different styles of Saori looms are available to use; all looms were designed by Kenzo Jo of Osaka, Japan.</p>",
+          "text": "<p>NOTICE: All classes are suspended due to Covid19 until 2021</p><p>Weaving workshops are held in my studio in Desert Hot Springs. Four different styles of Saori looms are available to use; all looms were designed by Kenzo Jo of Osaka, Japan.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Enroll Now&nbsp;</a>",
           "_anchor": "msg-box3-1n"
         },
@@ -1856,7 +1989,7 @@
             "showCaptions": true,
             "paddingTop": "3",
             "paddingBottom": 3,
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1881,6 +2014,62 @@
           "_anchor": "content4-1o"
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "22",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-femme-20200320-195341-processed-1224x1632.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Surface Design Classes",
+          "text": "<p>&nbsp;to be offered in Fall 2021</p><p>Stay Tuned on <a href=\"https://www.instagram.com/pullofthemoon/\" class=\"text-primary\" target=\"_blank\">Instagram</a>&nbsp;@&nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.25rem;\"><a href=\"https://www.instagram.com/pullofthemoon/\" class=\"text-primary\">Pull of the Moon</a></span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1y"
+        },
+        {
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1899,7 +2088,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showCaption": true,
+            "showCaption": false,
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -1965,8 +2154,8 @@
             }
           },
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1978,7 +2167,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1937-copy-265x227.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20200512-143040-712-265x265.jpeg",
               "width": 265,
               "active": true,
               "link": "",
@@ -1993,8 +2182,8 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (760) 676 9377<br><br>",
-          "text3": "<strong>Favorite Links</strong><ul><li><a href=\"http://saoristudiola.com\" target=\"_blank\" class=\"text-danger\">Saori Studio Los Angeles</a></li><li><a href=\"https://handmadesaori.com\" target=\"_blank\" class=\"text-danger\">Handmade Saori</a></li><li><a href=\"http://www.saoriworcester.com\" target=\"_blank\" class=\"text-danger\">Saori Worcestor</a></li><li><a href=\"http://heartfeltsilks.com\" target=\"_blank\" class=\"text-danger\">Heartfelt Silks</a></li><li><a href=\"http://www.saorisantacruz.com\" target=\"_blank\" class=\"text-danger\">Saori Santa Cruz</a></li><li><a href=\"http://saoriglobal.com\" target=\"_blank\" class=\"text-danger\">SAORI Global</a></li><li><a href=\"http://saorinomori.com/eng/index.html\" target=\"_blank\" class=\"text-danger\">Saorinomori</a></li><li><a href=\"http://www.handenstudios-saori.com\" target=\"_blank\" class=\"text-danger\">HanDen Studios</a></li></ul>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text3": "<ul></ul>",
           "_anchor": "contacts1-1r"
         },
         {
