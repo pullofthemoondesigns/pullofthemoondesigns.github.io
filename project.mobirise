@@ -271,7 +271,7 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: <a href=\"tel:+1 (951) 768-4750\" class=\"text-primary\">+1 (951) 768-4750</a><br><br>",
           "text3": "<ul></ul>"
         },
         {
@@ -824,7 +824,7 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: <a href=\"tel:+1 (951) 768-4750\" class=\"text-primary\">+1 (951) 768-4750</a><br><br>",
           "text3": "<ul></ul>"
         },
         {
@@ -1094,7 +1094,7 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: <a href=\"tel:+1 (951) 768-4750\" class=\"text-primary\">+1 (951) 768-4750</a><br><br>",
           "text3": "<ul></ul>"
         },
         {
@@ -1252,7 +1252,7 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: <a href=\"tel:+1 (951) 768-4750\" class=\"text-primary\">+1 (951) 768-4750</a><br><br>",
           "text3": "<ul></ul>"
         },
         {
@@ -1576,7 +1576,7 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: <a href=\"tel:+1 (951) 768-4750\" class=\"text-primary\">+1 (951) 768-4750</a><br><br>",
           "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -2195,7 +2195,7 @@
             }
           },
           "text1": "<strong>Located in</strong><br>\nDesert Hot Springs, CA",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: +1 (951) 768-4750<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:pullofthemoondesigns@gmail.com\" class=\"text-danger\">pullofthemoondesigns@gmail.com</a><br>\nPhone: <a href=\"tel:+1 (951) 768-4750\" class=\"text-primary\">+1 (951) 768-4750</a><br><br>",
           "text3": "<ul></ul>",
           "_anchor": "contacts1-1r"
         },
