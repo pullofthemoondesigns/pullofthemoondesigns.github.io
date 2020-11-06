@@ -2023,7 +2023,7 @@
             "inverse": true,
             "imageSize": "22",
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
