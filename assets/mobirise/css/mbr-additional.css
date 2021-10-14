@@ -219,13 +219,13 @@
 .cid-sLPT8m578K {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #dddddd;
 }
 .cid-sLPT8m578K .fb-page,
 .cid-sLPT8m578K span,
 .cid-sLPT8m578K iframe {
-  width: 500px;
-  height: 620px;
+  width: 350px;
+  height: 820px;
 }
 .cid-sLPT8m578K blockquote {
   display: none;
@@ -252,7 +252,7 @@
   text-align: center;
 }
 #msg-box3-1e .lead {
-  color: #000000;
+  color: #d9534f;
 }
 #social-buttons2-d .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
