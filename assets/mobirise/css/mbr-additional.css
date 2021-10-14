@@ -3,7 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
 
-
 #msg-box4-8 .lead P {
   font-size: 25px;
   color: #000000;
@@ -50,12 +49,6 @@
 #contacts1-g UL {
   color: #d9534f;
 }
-#social-buttons1-18 .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
-  color: #fbfbfb;
-}
-
 
 
 
@@ -115,12 +108,6 @@
 #contacts1-g UL {
   color: #d9534f;
 }
-#social-buttons1-17 .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
-  color: #fbfbfb;
-}
-
 
 
 #menu-6 .navbar-toggler {
@@ -166,11 +153,6 @@
 #contacts1-g UL {
   color: #d9534f;
 }
-#social-buttons1-1a .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
-  color: #fbfbfb;
-}
 
 
 #header2-1d H1 {
@@ -214,7 +196,6 @@
 
 
 
-
 #header1-k H1 {
   color: #fbfbfb;
   font-family: 'Indie Flower', cursive;
@@ -244,7 +225,7 @@
 .cid-sLPOFrGo1Z span,
 .cid-sLPOFrGo1Z iframe {
   width: 350px;
-  height: 620px;
+  height: 770px;
 }
 .cid-sLPOFrGo1Z blockquote {
   display: none;
@@ -281,11 +262,6 @@
 #contacts1-1j UL {
   color: #d9534f;
 }
-#social-buttons1-16 .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
-  color: #fbfbfb;
-}
 #menu-1 .navbar-toggler {
   color: #000;
 }
@@ -305,7 +281,6 @@
 #menu-1 .mbr-navbar__hamburger {
   color: #000;
 }
-
 
 
 
@@ -397,9 +372,4 @@
 }
 #contacts1-1r UL {
   color: #d9534f;
-}
-#social-buttons1-1s .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
-  color: #fbfbfb;
 }
